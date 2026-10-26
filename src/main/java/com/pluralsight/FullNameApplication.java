@@ -28,6 +28,7 @@ public class FullNameApplication {
             fullName += " " + middleName.charAt(0) + ".";
         }
         fullName += " " + lastName;
+
     }
 
 }
